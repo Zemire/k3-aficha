@@ -1,0 +1,20 @@
+@include breakpoint(medium large xlarge) {
+    
+}//END breakpoint(medium large xlarge)
+
+@include breakpoint(medium down) {
+    
+}//END breakpoint(medium down)
+
+@include breakpoint(medium only){
+    
+}//END breakpoint(medium only)
+
+@include breakpoint(small only){
+    
+} //END breakpoint(medium only)
+
+// Custom breakpoint example 
+@media only screen and (max-width: 1100px){
+    
+}//END breakpoint(max-width: 1100px)
